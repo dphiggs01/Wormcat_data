@@ -33,13 +33,13 @@
   {
     "file_name": "whole_genome_v1_jul-03-2019.csv",
     "order": "50",
-    "short_desc": "Whole genome V1",
+    "short_desc": "Whole genome v1",
     "location_suffix": "data"
   },
   {
     "file_name": "whole_genome_v2_nov-11-2021.csv",
     "order": "10",
-    "short_desc": "Whole genome V2",
+    "short_desc": "Whole genome v2",
     "location_suffix": "data"
   }
 ]
