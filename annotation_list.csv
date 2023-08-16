@@ -1,0 +1,8 @@
+file_name,order,short_desc,location_suffix
+ORF_only_v2_nov-11-2021.csv,20,ORF Only,data
+ahringer_v1_jan-02-2019.csv,60,Ahringer RNAi v1,data
+ahringer_v2_nov-11-2021.csv,30,Ahringer RNAi v2,data
+orfeome_v1_jan-31-2019.csv,60,Orfeome RNAi v1,data
+orfeome_v2_nov-11-2021.csv,40,Orfeome RNAi v2,data
+whole_genome_v1_jul-03-2019.csv,50,Whole genome v1,data
+whole_genome_v2_nov-11-2021.csv,10,Whole genome v2,data
