@@ -22,4 +22,4 @@ Wormcat is also available as an online tool at [www.wormcat.com](http://www.worm
 <img src="./images/sunburst.png" alt="starburst" width="400"/>
 
 ## WormCat Data
-This Repository contains curated Annotation files for the WormCat process.
+This Repository contains [curated Annotation files for the WormCat process](./annotation_list.md).
